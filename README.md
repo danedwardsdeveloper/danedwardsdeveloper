@@ -1,12 +1,12 @@
 ### Hey!
 
 ## Currently working on 
-🔭 A [Vinted](https://www.vinted.co.uk/) clone using React
-
 🔭 A personal blog inspired by [TikTok Creator Academy](https://www.tiktok.com/creator-academy/en/homepage) using React & WordPress
+🔭 A website to count how many of [MetaCritic's top 100 films](https://www.metacritic.com/browse/movie/) you have seen.
 
 ## Currently learning
 🌱 Node & Express
+🌱 TypeScript 
 
 ## Would appreciate help with
 🤔 React Helmet
