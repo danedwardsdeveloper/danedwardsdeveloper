@@ -1,6 +1,6 @@
-### Hey!
+### Hello!
 
-I'm a front-end web developer. Check out my [CV site](https://danedwardsdeveloper.com/) for more info about me
+I'm a full-stack web developer. Check out my [CV site](https://danedwardsdeveloper.com/) for more info about me and my projects
 
 ## Currently working on 
 🔭 A full-stack photo ranking web app
